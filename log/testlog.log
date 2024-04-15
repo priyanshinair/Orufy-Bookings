@@ -1,0 +1,133 @@
+2024-04-03 17:19:51,582 - orufyweb -INFO - url is opened
+2024-04-03 17:19:51,850 - orufyweb -INFO - entered email
+2024-04-03 17:19:51,967 - orufyweb -INFO - entered password
+2024-04-03 17:19:52,061 - orufyweb -INFO - test passed
+2024-04-09 21:25:02,720 - orufyweb -INFO - url is opened
+2024-04-09 21:25:02,916 - orufyweb -INFO - entered email
+2024-04-09 21:25:03,008 - orufyweb -INFO - entered password
+2024-04-09 21:25:03,071 - orufyweb -INFO - test passed
+2024-04-09 21:25:03,380 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35c09b94: 0 ms
+2024-04-09 21:25:03,397 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@75f2099: 17 ms
+2024-04-09 21:25:03,441 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5e3a39cd: 43 ms
+2024-04-09 21:25:03,443 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@21f9277b: 0 ms
+2024-04-09 21:25:03,461 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@22fba58c: 17 ms
+2024-04-09 21:25:03,477 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f973499: 15 ms
+2024-04-09 21:25:03,484 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@703feacd: 6 ms
+2024-04-09 21:29:33,291 - orufyweb -INFO - url is opened
+2024-04-09 21:29:33,472 - orufyweb -INFO - entered email
+2024-04-09 21:29:33,590 - orufyweb -INFO - entered password
+2024-04-09 21:29:33,671 - orufyweb -INFO - test passed
+2024-04-09 21:29:33,909 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35c09b94: 0 ms
+2024-04-09 21:29:33,925 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@75f2099: 15 ms
+2024-04-09 21:29:33,965 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5e3a39cd: 40 ms
+2024-04-09 21:29:33,966 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@21f9277b: 1 ms
+2024-04-09 21:29:33,977 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@22fba58c: 10 ms
+2024-04-09 21:29:33,985 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f973499: 4 ms
+2024-04-09 21:29:33,989 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@703feacd: 4 ms
+2024-04-09 21:39:04,389 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1d2644e3: 0 ms
+2024-04-09 21:39:04,410 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@30b9eadd: 16 ms
+2024-04-09 21:39:04,467 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@4a183d02: 57 ms
+2024-04-09 21:39:04,478 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@aed0151: 10 ms
+2024-04-09 21:39:04,485 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@e8fadb0: 6 ms
+2024-04-09 21:39:04,493 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1450078a: 8 ms
+2024-04-09 21:39:04,501 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@796d3c9f: 7 ms
+2024-04-09 21:40:29,435 - orufyweb -INFO - url is opened
+2024-04-09 21:40:29,608 - orufyweb -INFO - entered email
+2024-04-09 21:40:29,700 - orufyweb -INFO - entered password
+2024-04-09 21:40:29,754 - orufyweb -INFO - test passed
+2024-04-09 21:40:29,925 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35c09b94: 0 ms
+2024-04-09 21:40:29,942 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@75f2099: 16 ms
+2024-04-09 21:40:29,979 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5e3a39cd: 37 ms
+2024-04-09 21:40:29,979 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@21f9277b: 0 ms
+2024-04-09 21:40:29,985 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@22fba58c: 5 ms
+2024-04-09 21:40:29,989 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f973499: 4 ms
+2024-04-09 21:40:29,994 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@703feacd: 5 ms
+2024-04-09 22:06:24,845 - orufy bookings -INFO - url is opened
+2024-04-09 22:06:25,074 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d02f8d: 0 ms
+2024-04-09 22:06:25,099 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@15723761: 24 ms
+2024-04-09 22:06:25,168 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5d39f2d8: 68 ms
+2024-04-09 22:06:25,177 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@1869f114: 9 ms
+2024-04-09 22:06:25,186 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@5e3a39cd: 9 ms
+2024-04-09 22:06:25,200 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@21fff664: 14 ms
+2024-04-09 22:06:25,207 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1440c311: 6 ms
+2024-04-09 22:09:23,043 - orufyweb -INFO - url is opened
+2024-04-09 22:09:23,210 - orufyweb -INFO - entered email
+2024-04-09 22:09:23,303 - orufyweb -INFO - entered password
+2024-04-09 22:09:23,360 - orufyweb -INFO - test passed
+2024-04-09 22:09:24,919 - orufy bookings -INFO - url is opened
+2024-04-09 22:15:00,150 - orufyweb -INFO - url is opened
+2024-04-09 22:15:00,311 - orufyweb -INFO - entered email
+2024-04-09 22:15:00,408 - orufyweb -INFO - entered password
+2024-04-09 22:15:00,463 - orufyweb -INFO - test passed
+2024-04-09 22:15:02,679 - orufy bookings -INFO - url is opened
+2024-04-09 22:20:42,195 - orufyweb -INFO - url is opened
+2024-04-09 22:20:42,385 - orufyweb -INFO - entered email
+2024-04-09 22:20:42,474 - orufyweb -INFO - entered password
+2024-04-09 22:20:42,570 - orufyweb -INFO - test passed
+2024-04-09 22:20:43,434 - orufyweb -INFO - url is opened
+2024-04-09 22:20:43,633 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1d4664d7: 0 ms
+2024-04-09 22:20:43,650 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@37a64f9d: 17 ms
+2024-04-09 22:20:43,699 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@3bcd426c: 48 ms
+2024-04-09 22:20:43,706 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@30b2b76f: 7 ms
+2024-04-09 22:20:43,717 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@73877e19: 11 ms
+2024-04-09 22:20:43,725 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@41aaedaa: 7 ms
+2024-04-09 22:20:43,731 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71391b3f: 4 ms
+2024-04-09 22:21:39,859 - orufyweb -INFO - url is opened
+2024-04-09 22:21:40,017 - orufyweb -INFO - entered email
+2024-04-09 22:21:40,110 - orufyweb -INFO - entered password
+2024-04-09 22:21:40,166 - orufyweb -INFO - test passed
+2024-04-09 22:21:40,903 - orufyweb -INFO - url is opened
+2024-04-09 22:21:41,102 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f879bab: 0 ms
+2024-04-09 22:21:41,123 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6090f3ca: 21 ms
+2024-04-09 22:21:41,162 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@4bdc8b5d: 39 ms
+2024-04-09 22:21:41,173 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@7578e06a: 10 ms
+2024-04-09 22:21:41,178 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@11841b15: 5 ms
+2024-04-09 22:21:41,182 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@38548b19: 4 ms
+2024-04-09 22:21:41,191 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31fc71ab: 8 ms
+2024-04-09 22:22:49,939 - orufyweb -INFO - url is opened
+2024-04-09 22:22:50,130 - orufyweb -INFO - entered email
+2024-04-09 22:22:50,230 - orufyweb -INFO - entered password
+2024-04-09 22:22:50,284 - orufyweb -INFO - test passed
+2024-04-09 22:22:50,966 - orufyweb -INFO - url is opened
+2024-04-09 22:22:51,149 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f879bab: 0 ms
+2024-04-09 22:22:51,183 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6090f3ca: 33 ms
+2024-04-09 22:22:51,224 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@4bdc8b5d: 41 ms
+2024-04-09 22:22:51,232 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@7578e06a: 8 ms
+2024-04-09 22:22:51,257 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@11841b15: 25 ms
+2024-04-09 22:22:51,265 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@38548b19: 8 ms
+2024-04-09 22:22:51,273 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31fc71ab: 7 ms
+2024-04-10 11:06:04,665 - orufyweb -INFO - url is opened
+2024-04-10 11:06:04,913 - orufyweb -INFO - entered email
+2024-04-10 11:06:05,050 - orufyweb -INFO - entered password
+2024-04-10 11:06:05,196 - orufyweb -INFO - test passed
+2024-04-10 11:06:08,934 - orufy bookings -INFO - url is opened
+2024-04-10 11:13:12,538 - orufyweb -INFO - url is opened
+2024-04-10 11:13:12,750 - orufyweb -INFO - entered email
+2024-04-10 11:13:12,850 - orufyweb -INFO - entered password
+2024-04-10 11:13:12,939 - orufyweb -INFO - test passed
+2024-04-10 11:13:16,645 - orufy bookings -INFO - url is opened
+2024-04-10 11:14:17,232 - orufyweb -INFO - url is opened
+2024-04-10 11:14:17,439 - orufyweb -INFO - entered email
+2024-04-10 11:14:17,568 - orufyweb -INFO - entered password
+2024-04-10 11:14:17,702 - orufyweb -INFO - test passed
+2024-04-10 11:14:21,661 - orufy bookings -INFO - url is opened
+2024-04-10 11:17:11,775 - orufy bookings -INFO - url is opened
+2024-04-10 11:17:58,296 - orufyweb -INFO - url is opened
+2024-04-10 11:17:58,512 - orufyweb -INFO - entered email
+2024-04-10 11:17:58,619 - orufyweb -INFO - entered password
+2024-04-10 11:17:58,703 - orufyweb -INFO - test passed
+2024-04-10 11:17:58,921 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35c09b94: 0 ms
+2024-04-10 11:17:58,948 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@75f2099: 27 ms
+2024-04-10 11:17:59,001 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5e3a39cd: 53 ms
+2024-04-10 11:17:59,002 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@21f9277b: 0 ms
+2024-04-10 11:17:59,009 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@22fba58c: 6 ms
+2024-04-10 11:17:59,019 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f973499: 8 ms
+2024-04-10 11:17:59,023 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@703feacd: 4 ms
+2024-04-10 11:34:39,294 - orufyweb -INFO - url is opened
+2024-04-10 11:34:39,716 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@726a6b94: 1 ms
+2024-04-10 11:34:39,752 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@720653c2: 35 ms
+2024-04-10 11:34:39,905 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@5eeedb60: 152 ms
+2024-04-10 11:34:39,932 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d4664d7: 26 ms
+2024-04-10 11:34:39,975 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@47b2e9e1: 24 ms
+2024-04-10 11:34:40,037 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a095ec0: 61 ms
+2024-04-10 11:34:40,048 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e8a46b7: 9 ms
