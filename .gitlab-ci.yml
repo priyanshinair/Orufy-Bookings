@@ -5,9 +5,7 @@ stages:
 # Define job to run tests
 test:
   stage: test
-  tags:
-    - stable
-    - selenium  # Tag for the custom runner with Selenium capabilities
+    # Tag for the custom runner with Selenium capabilities
   script:
     - mvn clean install -DskipTests=true  # Install dependencies
     - mvn test  # Run TestNG tests
