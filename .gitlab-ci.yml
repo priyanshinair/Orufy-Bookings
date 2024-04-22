@@ -23,7 +23,8 @@ build_and_push:
     DOCKER_TLS_CERTDIR: "/certs"  # Corrected syntax
   tags:
     - docker
+  before_script:
+    -docker logic -u $USERNAME -p $PASSWORD
   script:
-    - echo "$DOCKER_PASSWORD" | docker login -u $USERNAME -p $PASSWORD
     - docker build -t priyanshinair02/bookings .  # Corrected syntax
     - docker push priyanshinair02/bookings  # Corrected syntax
