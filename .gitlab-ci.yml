@@ -6,6 +6,7 @@ stages:
 test:
   stage: test
   tags:
+    - stable
     - selenium  # Tag for the custom runner with Selenium capabilities
   script:
     - mvn clean install -DskipTests=true  # Install dependencies
