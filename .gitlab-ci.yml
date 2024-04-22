@@ -8,6 +8,7 @@ test:
   stage: test
     # Tag for the custom runner with Selenium capabilities
   script:
+    - apt-get update && apt-get install -y maven
     - mvn clean install -DskipTests=true  # Install dependencies
     - mvn test  # Run TestNG tests
   artifacts:
