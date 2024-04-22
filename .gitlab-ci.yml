@@ -1,3 +1,4 @@
+image: maven:3.8.4
 # Define stages of the pipeline
 stages:
   - test
