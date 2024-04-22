@@ -24,6 +24,6 @@ build_and_push:
   tags:
     - docker
   script:
-    - echo "$DOCKER_PASSWORD" | docker login -u "$USERNAME" --password-stdin
+    - echo "$DOCKER_PASSWORD" | docker login -u $USERNAME -p $PASSWORD
     - docker build -t priyanshinair02/bookings .  # Corrected syntax
     - docker push priyanshinair02/bookings  # Corrected syntax
