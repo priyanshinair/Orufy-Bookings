@@ -26,6 +26,6 @@ build_and_push:
   before_script:
     - docker login -u $USERNAME -p $PASSWORD
   script:
-    - docker build -t priyanshiorufy/orufybookings:bookings ./Bookings  # Corrected syntax
+    - docker build -t priyanshiorufy/orufybookings:bookings .  # Corrected syntax
     - docker push priyanshiorufy/orufybookings:bookings
   # Corrected syntax
