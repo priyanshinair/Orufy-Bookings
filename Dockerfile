@@ -1,5 +1,5 @@
-# Use a base image with OpenJDK and Maven installed
-FROM maven:3.8-openjdk-17 AS builder
+# Use a base image with OpenJDK, Maven, and Alpine Linux
+FROM maven:3.8-openjdk-17-alpine AS builder
 
 # Set the working directory
 WORKDIR /app
