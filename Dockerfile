@@ -17,9 +17,8 @@ COPY src ./src
 RUN mvn package
 
 # Download and unzip Chromedriver
-RUN apt-get update && \
-    apt-get install -y unzip && \
-    apt-get clean && \
+RUN apk update && \
+    apk add --no-cache wget unzip && \
     wget -O chromedriver_linux64.zip https://chromedriver.storage.googleapis.com/123.0.6312.122/chromedriver_linux64.zip && \
     unzip chromedriver_linux64.zip -d /usr/local/bin && \
     rm chromedriver_linux64.zip
