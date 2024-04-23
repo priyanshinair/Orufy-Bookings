@@ -1,6 +1,5 @@
 # Use a base image with OpenJDK, Maven, and Alpine Linux
-FROM maven:3.8.7-eclipse-temurin-19 AS builder
-
+FROM maven:3.8.4-openjdk-17 AS builder
 
 # Set the working directory
 WORKDIR /app
