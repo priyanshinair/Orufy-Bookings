@@ -16,6 +16,14 @@ COPY src ./src
 # Build the application
 RUN mvn package
 
+# Download and unzip Chromedriver
+RUN apt-get update && \
+    apt-get install -y unzip && \
+    apt-get clean && \
+    wget -O chromedriver_linux64.zip https://chromedriver.storage.googleapis.com/123.0.6312.122/chromedriver_linux64.zip && \
+    unzip chromedriver_linux64.zip -d /usr/local/bin && \
+    rm chromedriver_linux64.zip
+
 # Start a new stage for the runtime image
 FROM openjdk:17-jdk-alpine
 
@@ -24,14 +32,6 @@ WORKDIR /app
 
 # Copy the built artifact from the builder stage
 COPY --from=builder /app/target/*.jar ./app.jar
-
-# Add WebDriver for your browser testing (e.g., ChromeDriver)
-# Example for ChromeDriver
-ADD https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chrome-linux64.zip .
-RUN unzip chromedriver_linux64.zip -d /usr/local/bin && rm chromedriver_linux64.zip
-
-# Define any environment variables needed
-# ENV VARIABLE_NAME=value
 
 # Run the application
 CMD ["java", "-jar", "app.jar"]
