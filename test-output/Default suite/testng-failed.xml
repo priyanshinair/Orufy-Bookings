@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Bookings.Branding.testCases.TC_ByDefaultValues">
+      <class name="com.Bookings.meetingTypes.testCases.TC_MeetingDisabled">
         <methods>
           <include name="setup"/>
+          <include name="disable"/>
           <include name="tearDown"/>
-          <include name="defaultValues"/>
         </methods>
-      </class> <!-- com.Bookings.Branding.testCases.TC_ByDefaultValues -->
+      </class> <!-- com.Bookings.meetingTypes.testCases.TC_MeetingDisabled -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

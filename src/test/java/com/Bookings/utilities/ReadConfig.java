@@ -63,4 +63,16 @@ public class ReadConfig {
 		String brandingUrl = pro.getProperty("brandingUrl");
 		return brandingUrl;
 	}
+	
+	public String getMeetingTypeurl()
+	{
+		String meetingUrl = pro.getProperty("meetingTypeUrl");
+		return meetingUrl;
+	}
+	
+	public String getHolidaysUrl()
+	{
+		String holidaysUrl = pro.getProperty("holidaysUrl");
+		return holidaysUrl;
+	}
 }
