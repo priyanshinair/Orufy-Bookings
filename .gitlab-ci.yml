@@ -1,0 +1,31 @@
+image: maven:3.8.4
+
+stages:
+  - test
+  - build_and_push
+
+test:
+  stage: test
+  script:
+    - apt-get update && apt-get install -y maven
+    - mvn clean install -DskipTests=true
+    - mvn test
+  artifacts:
+    paths:
+      - test-output/Default suite/
+
+build_and_push:
+  stage: build_and_push
+  image: docker:20.10.16
+  services:
+    - docker:20.10.16-dind
+  variables:
+    DOCKER_TLS_CERTDIR: "/certs"  # Corrected syntax
+  tags:
+    - docker
+  before_script:
+    - docker login -u $USERNAME -p $PASSWORD
+  script:
+    - docker build -t priyanshiorufy/orufybookings:bookings .  # Corrected syntax
+    - docker push priyanshiorufy/orufybookings:bookings
+  # Corrected syntax
